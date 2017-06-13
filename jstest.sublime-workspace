@@ -1,0 +1,285 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-anchor"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"a",
+				"transparent"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"re",
+				"no-repeat"
+			],
+			[
+				"r",
+				"transparent"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"f",
+				"f2f2f2"
+			],
+			[
+				"color",
+				"flood-color"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"bac",
+				"background"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 360.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Install Package Control"
+			]
+		],
+		"width": 384.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/willliam/Desktop/jstest/jstest.json",
+		"/C/Users/willliam/Desktop/html_basics/Revision/My Travel -Miller/index 2.html",
+		"/C/Users/willliam/Desktop/html_basics/Revision/My Travel -Miller/stylesheet.css",
+		"/C/Users/willliam/Desktop/html_basics/aa-travel-site1/style.css",
+		"/C/Users/willliam/Desktop/html_basics/aa-travel-site1/index.html",
+		"/C/Users/willliam/Desktop/html_basics/aa-travel-site1/signupindex.html",
+		"/C/Users/willliam/Desktop/html_basics/WH-travel-site/HTML/Horizontes.html",
+		"/C/Users/willliam/Desktop/html_basics/WH-travel-site/HTML/style.css",
+		"/C/Users/willliam/Desktop/style.css",
+		"/C/Users/willliam/Desktop/html/index.html",
+		"/C/Users/willliam/Desktop/index.html",
+		"/C/Users/willliam/Downloads/find_your_destination_2-vicky.zip",
+		"/C/Users/willliam/Desktop/html_basics/Revision/stylesheet.css",
+		"/C/Users/willliam/Desktop/html_basics/Revision/index 2.html",
+		"/C/Users/willliam/Desktop/html_basics/Revision/index.html",
+		"/C/Users/willliam/Desktop/html_basics/index.html",
+		"/C/Users/willliam/Desktop/html_basics/css/css style.css",
+		"/C/Users/willliam/Desktop/html_basics/css style",
+		"/C/Users/willliam/Desktop/html_basics/China/China.html",
+		"/C/Users/willliam/Desktop/html_basics/My Travel/My Travel -Miller/My Travel/China/China.html",
+		"/C/Users/willliam/Desktop/html_basics/My Travel/My Travel -Miller/My Travel/England/England.html",
+		"/C/Users/willliam/Desktop/html_basics/My Travel/My Travel -Miller/My Travel/France/France.html",
+		"/C/Users/willliam/Desktop/html_basics/My Travel/My Travel -Miller/My Travel/Germany/Germany.html",
+		"/C/Users/willliam/Desktop/html_basics/My Travel/My Travel -Miller/My Travel/Russia/Russia.html",
+		"/C/Users/willliam/Desktop/html_basics/My Travel/United States/United States.html",
+		"/C/Users/willliam/Desktop/html_basics/My Travel/My Travel -Miller/My Travel/Travel Page.html",
+		"/C/Users/willliam/Desktop/html_basics/My Travel/Travel Page.html",
+		"/C/Users/willliam/Desktop/html_basics/My Travel/Bootstrap/billstyle.css",
+		"/C/Users/willliam/Desktop/html_basics/My Travel/Bootstrap/Projects/project.html",
+		"/C/Users/willliam/Desktop/html_basics/My Travel/Bootstrap/class project.nav bar.html",
+		"/C/Users/willliam/Desktop/html_basics/My Travel/cssstyle",
+		"/C/Users/willliam/Desktop/html_basics/My Travel/Bootstrap/billstyle.css.css",
+		"/C/Users/willliam/Desktop/html_basics/My Travel/bill.style.css",
+		"/C/Users/willliam/Downloads/html_basics.rar",
+		"/C/Users/willliam/Desktop/html_basics/My Travel/Russia/Russia.html",
+		"/C/Users/willliam/Desktop/html_basics/My Travel/China/China.html",
+		"/C/Users/willliam/Desktop/html_basics/My Travel/Russia/df",
+		"/C/Users/willliam/Desktop/html_basics/My Travel/Germany/Germany.html",
+		"/C/Users/willliam/Desktop/html_basics/My Travel/France/France.html",
+		"/C/Users/willliam/Desktop/html_basics/My Travel/England/England.html",
+		"/C/Users/willliam/Desktop/html_basics/travel.html/Travel/My Travel/United States/United States.html",
+		"/C/Users/willliam/Desktop/html_basics/travel.html/Travel/My Travel/England/England.html",
+		"/C/Users/willliam/Desktop/html_basics/travel.html/Travel/My Travel/Travel Page.html",
+		"/C/Users/willliam/Downloads/My Travel -Miller (1).zip",
+		"/C/Users/willliam/Desktop/html_basics/travel.html/Travel/My Travel/Russia/Russia.html",
+		"/C/Users/willliam/Desktop/html_basics/travel.html/Travel/My Travel/China/China.html",
+		"/C/Users/willliam/Desktop/html_basics/travel.html/Travel/My Travel/Germany/Germany.html",
+		"/C/Users/willliam/Desktop/html_basics/travel.html/Travel/My Travel/France/France.html",
+		"/C/Users/willliam/Desktop/html_basics/travel.html/tests/bn.html",
+		"/C/Users/willliam/OneDrive/Pictures/Louvre.jpg",
+		"/C/Users/willliam/Desktop/html_basics/style.css.txt",
+		"/C/Users/willliam/Desktop/html_basics/travel.html/hello world",
+		"/C/Users/willliam/Desktop/html_basics/travel.html/h1",
+		"/C/Users/willliam/Desktop/HTML BASIC/Travel.html.txt",
+		"/C/Users/willliam/Desktop/html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"patience",
+			"button",
+			"title",
+			"top",
+			"<li class=\"active\"><a href=\"#\">Contact <span class=\"sr-only\"></span></a></li>",
+			"active",
+			"header",
+			"container",
+			".</",
+			"class"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "jstest.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 159.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

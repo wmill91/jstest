@@ -1,0 +1,21 @@
+<html>
+
+	<head>
+
+		<title>JS Test Page</title>
+
+		<script type="text/javascript">
+
+				alert('Here I am!');
+				prompt('what day is it?');
+				confirm('am i a confirm box');
+		</script>
+
+	</head>
+
+		<body>
+
+		</body>
+
+
+</html>
