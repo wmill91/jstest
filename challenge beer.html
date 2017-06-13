@@ -1,0 +1,31 @@
+<html>
+
+<title> 99 Bottles of</title>
+
+
+    <script type="text/javascript">
+
+        var bottles;
+            for (counter = 1000; counter >= 1; counter = counter - 1) 
+                {
+                if (counter == 0) {
+                bottles = 'bottle';
+                } else {
+            bottles = 'bottles';
+    }
+                console.log(counter+" "+bottles+" of root beer on the wall.");
+                if (counter < 1000) {
+                console.log("");
+                console.log(counter+" "+bottles+" of root beer on the wall.");
+    }
+                console.log(counter+" "+bottles+" of root beer.");
+                console.log("Take one down.");
+                console.log("Pass it around.");
+                if (counter == 1) {
+                console.log("Hey! We need more root beer!");
+
+                alert ('WARNING: We are totally out of root beer..')
+    }
+}
+
+</script>

@@ -1,0 +1,19 @@
+<html>
+
+	<head>
+
+		<title> JS Test Page</title>
+
+		<script type="text/java">
+
+				var myAge= 51;
+
+				if(myAge < 50){
+						//console.log ('success!')
+						document.write('success!')
+				}
+
+		</script>
+
+
+</html>
